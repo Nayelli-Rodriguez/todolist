@@ -20,13 +20,15 @@ Asegúrate de tener instaladas las siguientes herramientas antes de comenzar:
 8. cd ..
 
 ### Debes de tener dos procesos corriendo uno para el cliente (Reac) y uno para el servidor (node.js)
+
 9. node server.js
 10. cd client
 11. npm run start
 
 ## Accesos (Usuario de pruebas)
-user: nayelli@gmail.com
-password: 123456789
+
+- user: nayelli@gmail.com
+- password: 123456789
 
 ## Raíz principal del proyecto (En el navegador)
 http://localhost:3001/dashboard
