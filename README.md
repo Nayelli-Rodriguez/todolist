@@ -5,7 +5,7 @@
 Asegúrate de tener instaladas las siguientes herramientas antes de comenzar:
 
 - Node.js: [Descargar e Instalar Node.js](https://nodejs.org/)
-- MongoDB: [Descargar e Instalar Node.js](https://www.mongodb.com/docs/v3.0/installation/)]
+- MongoDB: [Descargar e Instalar Node.js](https://www.mongodb.com/docs/v3.0/installation/)
 
 
 ## Iniciar
