@@ -1,6 +1,4 @@
-# Nombre del Proyecto
-
-ToDo List.
+# ToDo List
 
 ## Requisitos Previos
 
